@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "arandano",
+        "precio": 5000,
+        "img": "img/arandano.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "banana",
+        "precio": 3000,
+        "img": "img/banana.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "manzana",
+        "precio": 3500,
+        "img": "img/manzana.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "naranja",
+        "precio": 2800,
+        "img": "img/naranja.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "frutilla",
+        "precio": 6000,
+        "img": "img/frutilla.jpg"
+    }
+]
